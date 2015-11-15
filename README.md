@@ -21,7 +21,7 @@ Introduction into the ContentMine project and the software pipeline, followed by
 **ContentMine**
 - [ContentMine.org](http://contentmine.org/)
 - [@contentmine](http://twitter.com/thecontentmine)
-- office@contentmine.org
+- contact@contentmine.org
 
 ![ContentMine Logo](assets/CM_logo.png)
 
@@ -34,7 +34,7 @@ Copyright-holder for all works is the [Shuttleworth Foundation](http://shuttlewo
 
 | Time          | Agenda       | Description                                                            |
 |---------------|--------------|------------------------------------------------------------------------|
-| 13:00 - 11:15 | Introduction | Introduction into ContentMine.                                         |
+| 13:00 - 13:15 | Introduction | Introduction into ContentMine.                                         |
 | 13:15 - 13:40 | Live-Demo    | Live-Demo of the ContentMine pipeline with canary.                     |
 | 13:40 - 13:50 | Pluto        | .                                                                      |
 | 13:50 - 14:00 | Questions    | Open questions from to the audience.                                   |
@@ -51,12 +51,12 @@ There are many ways to contribute:
 - by closing issues
 - by writing about the project
 
-If you have questions, ask us directly or write us a mail (office ett contentmine dot org).
+If you have questions, ask us directly or write us a mail (contact@contentmine.org).
 
 When you are online, you can find us:
 - [contentmine.org](http://contentmine.org)
 - [@thecontentmine](http://twitter.com/thecontentmine)
-- office ett contentmine dot org
+- contact@contentmine.org
 
 ## Further materials
 - [workshop resources](https://github.com/ContentMine/workshop-resources/)
